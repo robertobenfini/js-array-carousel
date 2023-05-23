@@ -5,11 +5,18 @@
 }
 
 .container{
-    width: 700px;
+    width: 600px;
     height: 600px;
     margin: 60px auto;
-    border: 3px solid red;
     position: relative;
+}
+
+.slide{
+    display: none;
+}
+
+.active{
+    display: block;
 }
 
 .slidebar, .slide, .slide img{
@@ -17,10 +24,12 @@
     height: 100%;
 }
 
+/*pulsanti*/
 .prev ,.next{
     background-color: white;
     border-radius: 50%;
     padding: 5px 8px;
+    cursor: pointer;
     position: absolute;
 }
 
