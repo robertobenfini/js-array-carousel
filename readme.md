@@ -9,8 +9,8 @@ Al termine di questa fase ci ritroveremo con lo stesso slider stilato nella mile
 MILESTONE 3
 Al click dell'utente sulle frecce, il programma cambierà l’immagine attiva, che quindi verrà visualizzata al posto della precedente.
 
-1-creare un'array che contenga le 5 immagini;
-2-creare una struttura html e css per fare il markup statico;
+1-creare una struttura html e css per fare il markup statico;
+2-creare un'array che contenga le 5 immagini;
 3-rimuovere il markup statico;
 4-creare un ciclo for;
 5-creare all'interno del ciclo il div con l'immagine dentro e inserirlo nell'html;
